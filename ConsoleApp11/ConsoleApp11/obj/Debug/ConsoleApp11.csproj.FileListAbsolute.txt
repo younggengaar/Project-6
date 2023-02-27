@@ -1,0 +1,7 @@
+D:\Visual Studio 1 курс\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+D:\Visual Studio 1 курс\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+D:\Visual Studio 1 курс\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+D:\Visual Studio 1 курс\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.AssemblyReference.cache
+D:\Visual Studio 1 курс\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\Visual Studio 1 курс\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+D:\Visual Studio 1 курс\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
